@@ -7,4 +7,4 @@ In order to make the maximum use of the available bandwidth, the application of 
 
 The SERPent software is written in ParselTongue and Python to interact directly with data in the AIPS environment. It utilises the algorithms described in the articles "Post-correlation radio frequency interference classification methods'" (Offringa et al. 2010, MNRAS, 405, 155-167) and "A morphological algorithm for improving radio-frequency interference detection" (Offringa et al. 2012, A&A, 539, A95).
 
-SERPent is suitable for use with any radio astronomy array data.
+SERPent is suitable for use with any radio interferometric array data.
