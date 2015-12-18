@@ -5,7 +5,8 @@
 # Original version 13/09/2011 - Luke Peck                                    #
 #                                                                            #
 # Last update 12/2015 - Danielle Fenech                                      #
-#                                                                            #
+#              
+# Current version Aesculapian: 1.0 17/12/2015   
 ##############################################################################
 # This file contains all the information the user must input before running  #
 # SERPent.                                                                   #
